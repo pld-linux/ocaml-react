@@ -46,7 +46,7 @@ używających biblioteki OCamla react.
 
 %package devel
 Summary:	React - declarative events and signals for OCaml - development part
-Summary(pl.UTF-8):	React - deklaratywne zdarzenia i sygnały dla OCamla - cześć programistyczna
+Summary(pl.UTF-8):	React - deklaratywne zdarzenia i sygnały dla OCamla - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
