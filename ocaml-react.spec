@@ -11,7 +11,7 @@ Summary:	React - declarative events and signals for OCaml
 Summary(pl.UTF-8):	React - deklaratywne zdarzenia i sygnały dla OCamla
 Name:		ocaml-react
 Version:	1.2.1
-Release:	1
+Release:	2
 License:	ISC
 Group:		Libraries
 Source0:	https://erratique.ch/software/react/releases/react-%{version}.tbz
